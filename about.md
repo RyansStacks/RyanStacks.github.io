@@ -59,7 +59,20 @@ body
       <br>
       <!--title-->
       <h4>
-        Emergency Department Operational Tableau Dashboard
+        I am an aspiring data analyst who loves to explore data and create solutions to questions to just about anything that crosses my mind. 
+        Starting of working in medical laboratories, it was apparent how important data could be as clinical test provided medical providers with the impetus to treat patients.
+       For over 10 years I performed correlation studies between the analyzers that produce such test resuts and monitoring the safety of the laboratory by analyzing quality control testing.
+        <br><br>
+        After taking an online IBM Data Science with Python course, I fell in love with the field of programming and data science. 
+        The challenges typically faced changing careers was greatly qualmed by an inate passion to learn machine learning and statistics in my Data Science Graduate Program at Eastern University. 
+        I hope to acquire new skills in the field of data science as well as obtaining business domain knowledge to further my career and help organizations face business problems with the power of analysis.
+        <br><br>
+        When I am not cranking away code in SQL or Jupyter notebooks, you will find me in the mountains hiking or mountain biking. 
+        Also, as a big fan of anything culinary, exploring new restaurants or grub spots with friends is also a great passion.
+
+      
+
+  
       </h4>
 
 </body>
